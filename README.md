@@ -32,15 +32,18 @@ Here go to Tools, then board, and lastly select arduino nano 33 BLE. To select a
 
 # Test the installation and configuration
 After all installations and configuration, go to Files, then Examples, and Basics and then lastly Blink. Click right pointing arrow to upload and if everything is okay, youll see a window as one below. That shows your installation was good.
+
 ![photo 2](images/upload-sketch.png)
 
 # Programming to get sensors data.
 Here we are going to write a program to collect all sensor data from the nano except microphone sensor. All libraries are needed. Go to Sketch, include libraries, then manage libraries. Search and install all the sensor libraries; LSM9DS1, LPS22HB, HTS221, APDS9960. **NOTE:** I did not use the microphone sensor for now.
 
 Use nano_33_ble sketch in this repository to collect the sensor data. Ensure the baud rate is set to 9600. Upon uploading turn to Tools, then Serial monitor to visualize your sensors data. In case of any errors, press the white button once to refresh or unplug and plug back the board. Data is visualized as below.
+
 ![photo 3](images/data.png)
 
 You can as well use serial plotter to plot as below
+
 ![photo 3](images/plot.png).
 
 
