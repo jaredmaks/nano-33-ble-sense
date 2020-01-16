@@ -8,6 +8,7 @@ Nano? Yes "nano" or tiny. Arduino nano 33 ble sense is a small thumb-sized rapid
 
 # Installation and configuration of IDE
 ## Arduino Web IDE
+This IDE configuration does not need any downloads. Go to [getting started with arduino web IDE](https://create.arduino.cc/projecthub/Arduino_Genuino/getting-started-with-arduino-web-editor-on-various-platforms-4b3e4a) create an account login and you are good to start coding. The IDE is hosted online so its up to date in terms of libraries and drivers.
 
 
 
