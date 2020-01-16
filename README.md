@@ -1,5 +1,5 @@
 # nano-33-ble-sense
-Collecting arduino nano 33 ble sense sensors data using arduino IDE. This repository relies on [arduino giise](https://www.arduino.cc/en/Guide/NANO33BLESense) 
+Collecting arduino nano 33 ble sense sensors data using arduino IDE. This repository relies on [arduino guide](https://www.arduino.cc/en/Guide/NANO33BLESense) 
 
 # Getting started
 ![photo 1](images/nano-33-ble-sense.jpeg )
@@ -45,6 +45,8 @@ Use nano_33_ble sketch in this repository to collect the sensor data. Ensure the
 You can as well use serial plotter to plot as below
 
 ![photo 3](images/plot.png).
+
+Thank you, Enjoy Collecting data.
 
 
 
